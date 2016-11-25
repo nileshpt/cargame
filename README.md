@@ -1,2 +1,2 @@
 # cargame
-car game made with python language using pygame
+Car game made in python language using pygame.
